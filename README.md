@@ -1,7 +1,7 @@
 # platform_converter
 
 A new Flutter project.
-<img src="![Screenshot_20231203_215135](https://github.com/yash2851/platform_converter/assets/130960433/cc99d742-2c48-4ab5-b9c7-9513a30d9cbf)"width="400"height="500"
+![Screenshot_20231203_215135](https://github.com/yash2851/platform_converter/assets/130960433/cc99d742-2c48-4ab5-b9c7-9513a30d9cbf)
 ![Screenshot_20231203_215144](https://github.com/yash2851/platform_converter/assets/130960433/3136258d-1f44-41d6-9fed-04a0b744f37c)
 ![Screenshot_20231203_215151](https://github.com/yash2851/platform_converter/assets/130960433/9b1d2920-c59a-40bb-ad4a-b8af5b08016b)
 ![Screenshot_20231203_215156](https://github.com/yash2851/platform_converter/assets/130960433/89b6a366-1ac4-4979-ac27-2fd7a5f704a0)
