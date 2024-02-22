@@ -1,22 +1,28 @@
-# ScreenShots and Video
+# Platform_Converter
 
 A new Flutter project.
-![Screenshot_20231203_215135](https://github.com/yash2851/platform_converter/assets/130960433/cc99d742-2c48-4ab5-b9c7-9513a30d9cbf)
-![Screenshot_20231203_215144](https://github.com/yash2851/platform_converter/assets/130960433/3136258d-1f44-41d6-9fed-04a0b744f37c)
-![Screenshot_20231203_215151](https://github.com/yash2851/platform_converter/assets/130960433/9b1d2920-c59a-40bb-ad4a-b8af5b08016b)
-![Screenshot_20231203_215156](https://github.com/yash2851/platform_converter/assets/130960433/89b6a366-1ac4-4979-ac27-2fd7a5f704a0)
-![Screenshot_20231203_215203](https://github.com/yash2851/platform_converter/assets/130960433/a3d6eebe-0b94-4766-9604-c51648e9a90d)
-![Screenshot_20231203_215254](https://github.com/yash2851/platform_converter/assets/130960433/5c44fb2d-6357-42c6-8154-001c2fa5ea45)
-![Screenshot_20231203_215301](https://github.com/yash2851/platform_converter/assets/130960433/a62853a3-75dd-4f8b-b8e9-6f860ed4c18d)
-![Screenshot_20231203_215307](https://github.com/yash2851/platform_converter/assets/130960433/b8ec635d-e878-47af-b01f-19c694bd31e1)
-![Screenshot_20231203_215313](https://github.com/yash2851/platform_converter/assets/130960433/99194952-a5c6-4781-ae7d-64b9b4d263f9)
-![Screenshot_20231203_215319](https://github.com/yash2851/platform_converter/assets/130960433/541a4a79-da04-4bc3-a639-70e6d7b3f927)
-![Screenshot_20231203_215324](https://github.com/yash2851/platform_converter/assets/130960433/b7a21eec-ae4e-4403-ad73-205df80580f9)
-![Screenshot_20231203_215329](https://github.com/yash2851/platform_converter/assets/130960433/61b5f400-7660-4ab1-ac54-759d7358ae8c)
 
-https://github.com/yash2851/platform_converter/assets/130960433/5b28e6a2-6262-481e-b592-cffef5c89ba4
+## Output
 
-## Getting Started
+<p>
+
+<img src="https://github.com/yash2851/platform_converter/assets/130960433/702e3e7c-51c8-47a4-9713-f7e8a6aa7626" height=400>
+<img src="https://github.com/yash2851/platform_converter/assets/130960433/d60d806d-8cfe-44c9-8472-a0d323741884" height=400>
+<img src="https://github.com/yash2851/platform_converter/assets/130960433/73a6f338-cfe1-4861-af4b-f891f007de4a" height=400>
+<img src="https://github.com/yash2851/platform_converter/assets/130960433/7f2691a7-5667-4ae7-a8b4-5ab0f922a03e" height=400>
+<img src="https://github.com/yash2851/platform_converter/assets/130960433/7298cfbe-40e0-4da4-9d3d-c0d05610dc9d" height=400>
+<img src="https://github.com/yash2851/platform_converter/assets/130960433/e93dc7e3-02e3-4c70-8b7e-714f8bafe0e4" height=400>
+<img src="https://github.com/yash2851/platform_converter/assets/130960433/3b78e3c0-b36d-483d-93d6-1db35ceeb649" height=400>
+<img src="https://github.com/yash2851/platform_converter/assets/130960433/fc7b077a-3247-4c78-b5c0-5c1edc87789d" height=400>
+<img src="https://github.com/yash2851/platform_converter/assets/130960433/2397a623-ed88-451d-ab95-9c004e07b48e" height=400>
+<img src="https://github.com/yash2851/platform_converter/assets/130960433/f0940aa1-ceaf-4741-b9dc-a8a3986d01ba" height=400>
+<img src="https://github.com/yash2851/platform_converter/assets/130960433/b686b2c9-0c6c-4224-85dc-62a2dae225de" height=400>
+<img src="https://github.com/yash2851/platform_converter/assets/130960433/2f4d9f1c-ea10-4738-9596-fd194715d15a" height=400>
+
+</p>
+
+https://github.com/yash2851/platform_converter/assets/130960433/e47b88a3-b44b-451b-9cf1-ac8b0d47df12
+
 
 This project is a starting point for a Flutter application.
 
